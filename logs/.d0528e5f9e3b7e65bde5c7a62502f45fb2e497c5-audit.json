@@ -1,0 +1,270 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 365
+    },
+    "auditLog": "logs/.d0528e5f9e3b7e65bde5c7a62502f45fb2e497c5-audit.json",
+    "files": [
+        {
+            "date": 1712919661088,
+            "name": "logs/brand-2024-04-12-16.log",
+            "hash": "8c8879373ec552eedca595f37959966353d92717a5dd6b127e63d55ab13c1bc7"
+        },
+        {
+            "date": 1712921581183,
+            "name": "logs/brand-2024-04-12-17.log",
+            "hash": "7ab8dc1c71f73140710155196c06b6890a274d186c1a77c0aa202e5ecb59d652"
+        },
+        {
+            "date": 1712926596587,
+            "name": "logs/brand-2024-04-12-18.log",
+            "hash": "dfa1dc4da161992b591af9f0435c37a0bc3c1c1d17bdd83fdd8dd061041886f4"
+        },
+        {
+            "date": 1713154335473,
+            "name": "logs/brand-2024-04-15-09.log",
+            "hash": "2836f9cb181a0eccdce5764a3f1a14335219d56f9fe777d4a9f5ea35d1170624"
+        },
+        {
+            "date": 1713161604887,
+            "name": "logs/brand-2024-04-15-11.log",
+            "hash": "50a9d430d46a55edeae14e15807637fafaf59b9a42ffd5a355c0719690c40dde"
+        },
+        {
+            "date": 1713163706488,
+            "name": "logs/brand-2024-04-15-12.log",
+            "hash": "6dea9a1f05b54e3590432ca5232b201111d92b45775a880d6a14177c57e0ad36"
+        },
+        {
+            "date": 1713172011856,
+            "name": "logs/brand-2024-04-15-14.log",
+            "hash": "10775f96ad26da2070c394c5f7d7d6b530f93129268f31fa772930928199fa21"
+        },
+        {
+            "date": 1713174208120,
+            "name": "logs/brand-2024-04-15-15.log",
+            "hash": "2d9619ca9fa5376b90f1dc66f7edfe2668f06b92864af4c8c7da18ae3514781d"
+        },
+        {
+            "date": 1713243213603,
+            "name": "logs/brand-2024-04-16-10.log",
+            "hash": "05b3fa5137170dd27e3a021e52bfd370b326ab16b5a3118c0af97c6935672ee1"
+        },
+        {
+            "date": 1713246508943,
+            "name": "logs/brand-2024-04-16-11.log",
+            "hash": "9aef6b77f57ce5ea54e2104db246562d0c9e98d34004d145bc94aa4594824623"
+        },
+        {
+            "date": 1713249545525,
+            "name": "logs/brand-2024-04-16-12.log",
+            "hash": "9992ba8304cee46c7020c5c96e26dbc239301ce329de8501769d3d0c3823f6ab"
+        },
+        {
+            "date": 1713256112293,
+            "name": "logs/brand-2024-04-16-13.log",
+            "hash": "44563b36aa82f68a7f5bbfed11b2bd398fd1a0d1d30c705b2b946af5c7ff6567"
+        },
+        {
+            "date": 1713256214074,
+            "name": "logs/brand-2024-04-16-14.log",
+            "hash": "94fe066c11e383a10e385e73217039fc89b7fc05b6ca9348eba42bad403a54e3"
+        },
+        {
+            "date": 1713262450210,
+            "name": "logs/brand-2024-04-16-15.log",
+            "hash": "af3a7d2a6c68ddeca57b27eff5b9e1f7411a46dc1b505477c2c2665bc31fe97f"
+        },
+        {
+            "date": 1713265446750,
+            "name": "logs/brand-2024-04-16-16.log",
+            "hash": "65474da4543f7d1635ff5ad1e3f6363c265dd193cf7cf00b5a5f3b4d36c47437"
+        },
+        {
+            "date": 1713267831128,
+            "name": "logs/brand-2024-04-16-17.log",
+            "hash": "f5dfb6c4a81c5f7aa1fcbdc44c6a1d35b48f551999dbe575434179b5be6e8934"
+        },
+        {
+            "date": 1713330113576,
+            "name": "logs/brand-2024-04-17-10.log",
+            "hash": "0a31d3e200a17a2f75c42ef7ebdbe06e81b678366ae574846da87036e85322bb"
+        },
+        {
+            "date": 1713332983442,
+            "name": "logs/brand-2024-04-17-11.log",
+            "hash": "4a98f736cee8082c2aaea2fed840780b9bc9141abd9ae55d1becf0a71a18c867"
+        },
+        {
+            "date": 1713336985465,
+            "name": "logs/brand-2024-04-17-12.log",
+            "hash": "d241ca2e6e3d757c8e7c95d3d67594f56a8ecd85a9c6fe8bae4e149958a3c595"
+        },
+        {
+            "date": 1713344385206,
+            "name": "logs/brand-2024-04-17-14.log",
+            "hash": "02163fef09281851db258e4ddc782fdc58b2f40a2cc501c3d0975007f1752d4e"
+        },
+        {
+            "date": 1713346322711,
+            "name": "logs/brand-2024-04-17-15.log",
+            "hash": "2a97f96b994fd0e1121250b28f3c441797c90a94dda6f0970825e78d1707e887"
+        },
+        {
+            "date": 1713351580617,
+            "name": "logs/brand-2024-04-17-16.log",
+            "hash": "e28d1d46123658eff5635cb9b6ed234113df197b3fd065d6b0a6fa35d011db0c"
+        },
+        {
+            "date": 1713353420231,
+            "name": "logs/brand-2024-04-17-17.log",
+            "hash": "f865facf54f126cbb367cba340aa91235861fef9537d29cb348ff74495c8a3ad"
+        },
+        {
+            "date": 1713357951278,
+            "name": "logs/brand-2024-04-17-18.log",
+            "hash": "d51055eab1ae86b47fbc08be6cd73a5c4295abf2bed2b6727a45bc7bd6f8bce3"
+        },
+        {
+            "date": 1713360604703,
+            "name": "logs/brand-2024-04-17-19.log",
+            "hash": "0c835ae47999d6e6ac933b8df53cfa57e2d722f9c112ea4e0eef2eefd21bca7e"
+        },
+        {
+            "date": 1713414897994,
+            "name": "logs/brand-2024-04-18-10.log",
+            "hash": "92c07a35e6fbd644618644427be9dc95c2feda110c121cae8bec28532fabc8d8"
+        },
+        {
+            "date": 1713418917731,
+            "name": "logs/brand-2024-04-18-11.log",
+            "hash": "14437ac838efa29157fe3d12cc3dbe2808ce9fd28cef8400907a4aedecd00883"
+        },
+        {
+            "date": 1713423120799,
+            "name": "logs/brand-2024-04-18-12.log",
+            "hash": "fa646db99fb16d06df5c9cde4d3f4152f98dba2118245963864bde333caac0f4"
+        },
+        {
+            "date": 1713431103351,
+            "name": "logs/brand-2024-04-18-14.log",
+            "hash": "e655a3308b554a2910f19c7652c00aa666c7bfec411581baebbf4643af4fa2b5"
+        },
+        {
+            "date": 1713433610295,
+            "name": "logs/brand-2024-04-18-15.log",
+            "hash": "fdbc8805dffe05bfd4af6ad74913e4ceb38afeada06b76885d63dbe444a7eebc"
+        },
+        {
+            "date": 1713439891827,
+            "name": "logs/brand-2024-04-18-17.log",
+            "hash": "608465b37f9244e3d6ff1a0be3f22f8326b1a23e3062243f05552673ddfcbd89"
+        },
+        {
+            "date": 1713509708167,
+            "name": "logs/brand-2024-04-19-12.log",
+            "hash": "7e0abf1d2677e9e1a08b5a46e35b46416462eecb569a286646a6036c9109bcdc"
+        },
+        {
+            "date": 1713517822669,
+            "name": "logs/brand-2024-04-19-14.log",
+            "hash": "0f87be8bd67bca02c9272b5d91e92d62b5ba7f620f946a381f8faaefe4193ab4"
+        },
+        {
+            "date": 1713521524563,
+            "name": "logs/brand-2024-04-19-15.log",
+            "hash": "f347bbee6a8369acadb30cb200cfae54a68d1c573882d3edd6aaa2df6e46d684"
+        },
+        {
+            "date": 1713523786730,
+            "name": "logs/brand-2024-04-19-16.log",
+            "hash": "dd701f7c7c23fe965af4897bc3a3669b9d9a66bd5055032e3ce2361e91c280c6"
+        },
+        {
+            "date": 1713526310242,
+            "name": "logs/brand-2024-04-19-17.log",
+            "hash": "427bd06b123fd4de264c32ec38faf6deab5c00170011e7e560aba8d262505a3e"
+        },
+        {
+            "date": 1713531229243,
+            "name": "logs/brand-2024-04-19-18.log",
+            "hash": "c097c3d772f96cb19430088466677c65f6754d8be91ff848a0bb5a8d11f57f17"
+        },
+        {
+            "date": 1713760596017,
+            "name": "logs/brand-2024-04-22-10.log",
+            "hash": "f45c3f30f46058823d4563b16e74e66a65c65a519da1201704bde686799455b2"
+        },
+        {
+            "date": 1713764000148,
+            "name": "logs/brand-2024-04-22-11.log",
+            "hash": "46ab8e705858c1ae32a0379cdaa14773018e9b9c9375c9f5b8e747b034cb5293"
+        },
+        {
+            "date": 1713775789931,
+            "name": "logs/brand-2024-04-22-14.log",
+            "hash": "4441f3384522dcd94e41595bf72ffd948102856f6e09893ee2f4b9859b3a8e93"
+        },
+        {
+            "date": 1713778771449,
+            "name": "logs/brand-2024-04-22-15.log",
+            "hash": "89260d9961982aac8b34f4f05ec7fa7b10dad859f10caeb73b97893945763973"
+        },
+        {
+            "date": 1713782095987,
+            "name": "logs/brand-2024-04-22-16.log",
+            "hash": "5a7c74de3abbd564852684eee500ef49c0213821a412405c71d30feaed474d2a"
+        },
+        {
+            "date": 1713788560254,
+            "name": "logs/brand-2024-04-22-17.log",
+            "hash": "6627a63264b14f9194d566c1203abe8f68f9e7f3feb07902396d06d8b649dc91"
+        },
+        {
+            "date": 1713789504303,
+            "name": "logs/brand-2024-04-22-18.log",
+            "hash": "6ee6968ac68fb4166a4ec24343b1c555141b75cdfaddf446f788e77e5e5f97a1"
+        },
+        {
+            "date": 1713846308249,
+            "name": "logs/brand-2024-04-23-09.log",
+            "hash": "d1e0ef987d489e21c3f6ff54b56ebbdb76c1bdb844b0348ac74e8551e29c2c98"
+        },
+        {
+            "date": 1713846696657,
+            "name": "logs/brand-2024-04-23-10.log",
+            "hash": "8fd9b5499bf2c0c5fe408fa6b03042361b9ada8672a14f510f9a4f0bf4a3499e"
+        },
+        {
+            "date": 1713850996573,
+            "name": "logs/brand-2024-04-23-11.log",
+            "hash": "febe314af673472c033ae12924a54a3ec9fa26510393edcb8072a288e1b76ccc"
+        },
+        {
+            "date": 1713856155386,
+            "name": "logs/brand-2024-04-23-12.log",
+            "hash": "8b267bf09149f8081d948393342bd5636f55e7ab1272e709f1eecbd7cfe04735"
+        },
+        {
+            "date": 1713857410726,
+            "name": "logs/brand-2024-04-23-13.log",
+            "hash": "ae710b1935b794d718eac8467daf6e3400110e807a985dd610f8e6e40e2353d4"
+        },
+        {
+            "date": 1713862671776,
+            "name": "logs/brand-2024-04-23-14.log",
+            "hash": "aba14f2039d76872c262d6e9197184e8e2fc7eb05d34b46feaf70d14c61cec09"
+        },
+        {
+            "date": 1713868586156,
+            "name": "logs/brand-2024-04-23-16.log",
+            "hash": "ccea7b882f9000e7606a90d3322321e32c21e333a1f2f87146c82529453b3e49"
+        },
+        {
+            "date": 1713872588912,
+            "name": "logs/brand-2024-04-23-17.log",
+            "hash": "5dc51ba1dba5c659ac43a661c546fd8207efd468ab2513e1caae0d0c0f542196"
+        }
+    ],
+    "hashType": "sha256"
+}
